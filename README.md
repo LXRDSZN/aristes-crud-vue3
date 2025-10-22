@@ -15,7 +15,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 npm install --force or --legacy-peer-deps 
 ```
-Si sale algun erro con npm audit fix  omitir ese paso y ejecutar el comando de abajo
+Si sale algun error con npm audit fix,  omitir ese paso y ejecutar el comando de abajo
 ### Compile and Hot-Reload for Development
 
 ```sh
